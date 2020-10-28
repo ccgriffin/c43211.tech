@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3a45bf4-50f7-41a6-8562-59d585706275/deploy-status)](https://app.netlify.com/sites/c43211tech/deploys)
+
 # jekyll-theme-console
 
 A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
