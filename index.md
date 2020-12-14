@@ -1,8 +1,9 @@
 ---
-title: /
+title: "/"
 layout: home
-permalink: /
----
+permalink: "/"
 
+---
 # Welcome
+
 ## This page is coming soon.
