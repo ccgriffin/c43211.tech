@@ -6,4 +6,4 @@ permalink: "/"
 ---
 # Welcome
 
-## This page is coming soon.
+## Welcome to my website.
